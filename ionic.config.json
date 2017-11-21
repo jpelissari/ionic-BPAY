@@ -1,6 +1,8 @@
 {
   "name": "BPay",
-  "app_id": "",
+  "app_id": "90990e7c",
   "type": "ionic-angular",
-  "integrations": {}
+  "integrations": {
+    "cordova": {}
+  }
 }
